@@ -1,0 +1,7 @@
+Sum of #1 line: 6
+Sum of #2 line: 37
+Sum of #3 line: 5
+Sum of #4 line: 2
+Sum of #5 line: 0
+Sum of #6 line: 3
+Sum of #7 line: 3
